@@ -1,0 +1,15 @@
+body { margin: 0; background: #f4f4f4; text-align: center; }
+nav { background: #2f5d34; }
+nav a { background: #ddd; color: #000; padding: 8px 15px; margin: 5px; text-decoration: none; display: inline-block; }
+header, section { padding: 20px; }
+header, section, .links-box { background: #fff; }
+#greeting, h1, h2 { color: #2f5d34; }
+.btn { background: #c5d6a0; padding: 8px 20px; border-radius: 20px; display: inline-block; }
+.content, .grid { margin: auto; }
+.gallery { background: #e9e1d3; }
+.grid img { height: 250px; object-fit: cover; }
+footer { background: #666; color: #fff; padding: 30px 20px; }
+footer h3 { color: #c5d6a0; }
+footer p { max-width: 700px; margin: 0 auto 20px; }
+.links-box { display: inline-flex; }
+.links-box a { padding: 10px 20px; }
